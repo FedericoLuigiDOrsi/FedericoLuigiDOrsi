@@ -10,16 +10,17 @@
 <br>
 
 <a href="https://github.com/FedericoLuigiDOrsi">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+run+a+real+business;Costruisco+sistemi+che+fanno+girare+un+business+vero" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Federico.+Welcome+in;Ciao%2C+sono+Federico.+Benvenuto" alt="Typing SVG" />
 </a>
 
 </div>
 
 ### Currently building
 
-- 🏷️ **DirtyTag** — resale vintage fashion, from listing to sale
-- 🤖 Agent systems on Claude Code — MCP, multi-agent orchestration
-- ⚙️ n8n automations connecting Airtable, GitHub, and marketplaces
+- 🏷️ **DirtyTag** — resale vintage fashion, and the system (pricing, automations, catalog) that runs it
+- 🧭 **MAAT** @ Dedalo — commerce operations product, building it with a small team
+- 🧠 **Second Brain** — my own personal AI OS: multi-agent orchestration on top of an Obsidian vault
+- 🌐 **Civilia** — open source showcase, and the other side projects I keep shipping for fun
 
 ### Activity
 
@@ -28,18 +29,18 @@
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/FedericoLuigiDOrsi/FedericoLuigiDOrsi/output/github-contribution-grid-snake.svg" />
 </picture>
 
-### GitHub stats
+### Skills
 
-<!-- Self-hosted — scripts/cards.py, no third-party rendering service -->
+<!-- Self-hosted — scripts/skills_radar.py, no third-party rendering service -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg" />
-  <img src="assets/card-stats-dark.svg" alt="GitHub statistics" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg" />
+  <img src="assets/radar-dark.svg" alt="self-rated skills radar chart" />
 </picture>
 
 ### Stack
 
-![Skills](https://skillicons.dev/icons?i=python,javascript,github,notion)
+![Skills](https://skillicons.dev/icons?i=python,typescript,javascript,nextjs,react,github,notion,obsidian)
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 ![Airtable](https://img.shields.io/badge/Airtable-18BFFF?style=flat&logo=airtable&logoColor=white)
