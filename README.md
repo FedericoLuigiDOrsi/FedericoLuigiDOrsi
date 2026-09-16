@@ -12,6 +12,13 @@
 - 🤖 Agent systems on Claude Code — MCP, multi-agent orchestration
 - ⚙️ n8n automations connecting Airtable, GitHub, and marketplaces
 
+### Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FedericoLuigiDOrsi/FedericoLuigiDOrsi/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/FedericoLuigiDOrsi/FedericoLuigiDOrsi/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ### Stack
 
 ![Skills](https://skillicons.dev/icons?i=python,javascript,github,notion)
