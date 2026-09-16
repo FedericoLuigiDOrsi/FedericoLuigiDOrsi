@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="460" viewBox="0 0 680 460" font-family="Fira Code, Consolas, monospace">
+<rect width="680" height="460" rx="12" fill="#ffffff"/>
+<rect x="0.5" y="0.5" width="679" height="459" rx="12" fill="none" stroke="#d0d7de"/>
+<rect x="0.5" y="0.5" width="679" height="34" rx="12" fill="#f6f8fa"/>
+<rect x="0.5" y="22" width="679" height="13" fill="#f6f8fa"/>
+<line x1="0.5" y1="34.5" x2="679.5" y2="34.5" stroke="#d0d7de"/>
+<circle cx="20" cy="17" r="5" fill="#ff5f56"/>
+<circle cx="38" cy="17" r="5" fill="#ffbd2e"/>
+<circle cx="56" cy="17" r="5" fill="#27c93f"/>
+<text x="340.0" y="21" font-size="12" fill="#57606a" text-anchor="middle">skills.sh --radar --self-rated</text>
+<polygon points="340.0,194.5 368.1,210.8 368.1,243.2 340.0,259.5 311.9,243.2 311.9,210.8" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="340.0,162.0 396.3,194.5 396.3,259.5 340.0,292.0 283.7,259.5 283.7,194.5" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="340.0,129.5 424.4,178.2 424.4,275.8 340.0,324.5 255.6,275.8 255.6,178.3" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<polygon points="340.0,97.0 452.6,162.0 452.6,292.0 340.0,357.0 227.4,292.0 227.4,162.0" fill="none" stroke="#d0d7de" stroke-width="1"/>
+<line x1="340.0" y1="227.0" x2="340.0" y2="97.0" stroke="#d0d7de" stroke-width="1"/>
+<text x="340.0" y="63.0" font-size="11" fill="#57606a" text-anchor="middle">Automation (n8n)</text>
+<line x1="340.0" y1="227.0" x2="452.6" y2="162.0" stroke="#d0d7de" stroke-width="1"/>
+<text x="482.0" y="145.0" font-size="11" fill="#57606a" text-anchor="start">AI Agents</text>
+<line x1="340.0" y1="227.0" x2="452.6" y2="292.0" stroke="#d0d7de" stroke-width="1"/>
+<text x="482.0" y="309.0" font-size="11" fill="#57606a" text-anchor="start">Backend / Python</text>
+<line x1="340.0" y1="227.0" x2="340.0" y2="357.0" stroke="#d0d7de" stroke-width="1"/>
+<text x="340.0" y="391.0" font-size="11" fill="#57606a" text-anchor="middle">Product &amp; Systems</text>
+<line x1="340.0" y1="227.0" x2="227.4" y2="292.0" stroke="#d0d7de" stroke-width="1"/>
+<text x="198.0" y="309.0" font-size="11" fill="#57606a" text-anchor="end">Business Ops</text>
+<line x1="340.0" y1="227.0" x2="227.4" y2="162.0" stroke="#d0d7de" stroke-width="1"/>
+<text x="198.0" y="145.0" font-size="11" fill="#57606a" text-anchor="end">Frontend</text>
+<polygon points="340.0,110.0 441.3,168.5 430.1,279.0 340.0,331.0 261.2,272.5 272.5,188.0" fill="rgba(46,158,247,0.22)" stroke="#2E9EF7" stroke-width="2"/>
+<circle cx="340.0" cy="110.0" r="3" fill="#2E9EF7"/>
+<circle cx="441.3" cy="168.5" r="3" fill="#2E9EF7"/>
+<circle cx="430.1" cy="279.0" r="3" fill="#2E9EF7"/>
+<circle cx="340.0" cy="331.0" r="3" fill="#2E9EF7"/>
+<circle cx="261.2" cy="272.5" r="3" fill="#2E9EF7"/>
+<circle cx="272.5" cy="188.0" r="3" fill="#2E9EF7"/>
+<text x="340.0" y="446" font-size="10.5" fill="#57606a" text-anchor="middle">self-rated · out of 10 · updated by hand, not by vanity</text>
+</svg>
